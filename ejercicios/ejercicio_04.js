@@ -1,0 +1,4 @@
+(function() {
+    console.log("¡Bienvenido!");
+
+})();
